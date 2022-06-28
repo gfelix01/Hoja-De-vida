@@ -1,0 +1,15 @@
+body{
+ background-color: rgb(147, 153, 241);
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container{
+    /*width:70%;*/
+    width: 1100px;
+    margin:0px;
+    border: 1px;
+}
+head{
+    background-color: darkslategrey;
+}
+    
